@@ -98,7 +98,7 @@ const isToday = computed(() => {
 
 // Actions
 const checkPassword = () => {
-    if (passwordInput.value.trim() === 'redapple') {
+    if (passwordInput.value.trim() === 'akeahnaidoo') {
         unlocked.value = true
         fetchPlates()
     }
